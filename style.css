@@ -51,3 +51,8 @@ body {
     align-items: center;
 }
 
+#messageContainer {
+    font-size: 20px;
+    color: #736bb0;
+    margin-top: 20px;
+}
